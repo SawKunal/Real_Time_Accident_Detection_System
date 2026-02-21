@@ -248,9 +248,9 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @software{accident_detection_2024,
-  author = {Pratyay Patra},
+  author = {Kunal Kumar Saw},
   title = {Accident Detection System},
-  year = {2024},
+  year = {2025},
   url = {https://github.com/yourusername/accident-detection}
 }
 ```
@@ -276,9 +276,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Training conducted on Google Colab with T4 GPU
 
 ## 📞 Contact
-
-- **Issues**: [GitHub Issues](https://github.com/perilousTF/accident-detection/issues)
-- **Email**: pratyaypatra31@gmail.com
+- **Email**: sawkunal556@gmail.com
 
 ---
 
